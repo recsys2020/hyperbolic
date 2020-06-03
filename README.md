@@ -4,10 +4,10 @@ Accompanying code for the paper
 ## Results
 <p align="middle">
   <img src="assets/netflix.png" />
-  <img src="assets/ml1m.png" /> 
   <img src="assets/ml20m.png"/> 
+  <img src="assets/pinterest.png" />   
+  <img src="assets/ml1m.png" /> 
 </p>
-
 
 
 ## Data
