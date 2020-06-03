@@ -1,4 +1,4 @@
-# Hyperbolic (variational) autoencoders for recommender systems
+# Hyperbolic (ordinary and variational) autoencoders for recommender systems
 Accompanying code for the paper
 
 
