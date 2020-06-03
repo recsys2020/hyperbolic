@@ -6,7 +6,7 @@ Accompanying code for the paper
   <img src="assets/netflix.png" />
   <img src="assets/ml20m.png"/> 
   <img src="assets/pinterest.png" />   
-  <img src="assets/ml1m.png" /> 
+  <img src="assets/ML1M_.png" /> 
 </p>
 
 
