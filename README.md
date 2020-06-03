@@ -1,6 +1,15 @@
 # Hyperbolic (variational) autoencoders for recommender systems
 Accompanying code for the paper
 
+
+<p align="middle">
+  <img src="assets/netflix.png" />
+  <img src="assets/ml1m.png" /> 
+  <img src="assets/ml20m.png"/> 
+</p>
+
+
+
 ## Data
 To reproduce our code, please put the data files in the following order:
 
