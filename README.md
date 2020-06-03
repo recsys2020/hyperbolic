@@ -17,7 +17,7 @@ data
 Also, please install geoopt package [geoopt](https://github.com/geoopt) for Riemannian optimization
 
 ## Wandb
-In our experiments, we have used wandb framework for result tracking. Our test scripts are based on wandb configs.
+In our experiments, we have used [wandb](http://wandb.com) framework for result tracking. Our test scripts are based on wandb configs.
 
 ## Acknowledgments
 In our code we have used the following repositories:
