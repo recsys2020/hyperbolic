@@ -14,7 +14,7 @@ data
           * ml1m
           * pinterest
 
-Also, please install geoopt package [geoopt](https://github.com/geoopt) for Riemannian optimization
+Also, please install geoopt package [geoopt](https://github.com/geoopt) for Riemannian optimization and [hyptorch](https://github.com/leymir/hyperbolic-image-embeddings) for computations in hyperbolic spaces.
 
 ## Wandb
 In our experiments, we have used [wandb](http://wandb.com) framework for result tracking. Our test scripts are based on wandb configs.
@@ -22,3 +22,5 @@ In our experiments, we have used [wandb](http://wandb.com) framework for result 
 ## Acknowledgments
 In our code we have used the following repositories:
 * [mvae](https://github.com/oskopek/mvae)
+* [geoopt](https://github.com/geoopt)
+* [hyptorch](https://github.com/leymir/hyperbolic-image-embeddings)
