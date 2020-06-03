@@ -1,7 +1,7 @@
 # Hyperbolic (ordinary and variational) autoencoders for recommender systems
 Accompanying code for the paper
 
-
+## Results
 <p align="middle">
   <img src="assets/netflix.png" />
   <img src="assets/ml1m.png" /> 
